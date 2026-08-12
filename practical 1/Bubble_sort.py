@@ -1,5 +1,3 @@
-# Bubble Sort
-
 arr = list(map(int, input("Enter elements separated by space: ").split()))
 
 n = len(arr)
